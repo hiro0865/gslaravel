@@ -10,6 +10,7 @@ body{font-size:16pt; color:#999;}
 <body>
     <h1>Blade/Index</h1>
     <p>{{$msg}}</p>
+    <!--コメントを足しました。-->
     <form method="POST" action="/hello">
         {{csrf_field()}}
         <input type="text" name="msg">
