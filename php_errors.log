@@ -1,0 +1,2 @@
+[09-Mar-2018 16:20:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\controller' not found in /home/ubuntu/workspace/cms/app/Http/Controllers/HelloController.php on line 7
+[09-Mar-2018 16:21:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\controller' not found in /home/ubuntu/workspace/cms/app/Http/Controllers/HelloController.php on line 7
